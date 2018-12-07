@@ -4,7 +4,7 @@
 <script src="../dist/log-sdk.js"></script>
 ```
 
-## 相后端发送日志数据
+## 向后端发送日志数据
 
 ```javascript
 $(document).ready(function () {
